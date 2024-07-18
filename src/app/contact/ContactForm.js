@@ -35,6 +35,10 @@ const ContactForm = () => {
           <label className="block text-gray-700">Contact Number</label>
           <input type="tel" name="user_phone" className="w-full px-4 py-2 border rounded-md" required />
         </div>
+            <div>
+          <label className="block text-gray-700">ADRESS</label>
+          <input type="tel" name="user_phone" className="w-full px-4 py-2 border rounded-md" required />
+        </div>
         <div>
           <label className="block text-gray-700">Address</label>
           <input type="tel" name="usaddresse" className="w-full px-4 py-2 border rounded-md" required />
